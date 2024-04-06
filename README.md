@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Hey There! 👋
+**I'm Elvis (he/him)** - I'm an Aspiring Software Engineer who is currently enrolled at the University of the West of England, Bristol where I'm studying towards a Bachelor's of Science in Computer Science (with Placement Year). 
 
-You can use the [editor on GitHub](https://github.com/elvybean/elvybean.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Between my time at secondary school, college and university I have 7 years experience studying computer science based courses and have work experience as a Junior Software Developer Intern, which has allowed me develop my programming knowledge, skill and ability. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<a href="#">
 
-### Markdown
+### Proficent with:
+<img src="https://skillicons.dev/icons?i=html,css,py,c,cpp"/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Exposure to:
+<img src="https://skillicons.dev/icons?i=js,flask,cs,php,git"/>
 
-```markdown
-Syntax highlighted code block
+<!-- Add Image sheilds (img.shields.io) for Status, Gaming?, Spotify and VSCode -->
 
-# Header 1
-## Header 2
-### Header 3
+## Spotify 🎵
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=elvis_arry03&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false"/>
 
-- Bulleted
-- List
+## Github Stats⚡
+<img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvybean&&layout=compact&theme=shades-of-purple&count_private=true&langs_count=10&size_weight=0.5&count_weight=0.5"/>
+<img src="https://streak-stats.demolab.com?user=elvybean&theme=shades-of-purple&count_private=true"/>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elvybean/elvybean.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</a>
